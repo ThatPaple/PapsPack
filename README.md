@@ -79,7 +79,7 @@ Minecraft Texture pack made via VanillaTweaks with additional tweaks made by me!
 * Quieter Nether Portals
 
 ## Variation
-Varied Bookshelves
+* Varied Bookshelves
 
 ## Aesthetic
 * Warm Glow
