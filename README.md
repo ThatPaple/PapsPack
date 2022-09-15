@@ -1,8 +1,8 @@
 # PapsPack
 Minecraft Texture pack made via VanillaTweaks with additional tweaks made by me!
 
-
 - [PapsPack](#papspack)
+- [How to Install](#how-to-install)
 - [Current Mods](#current-mods)
   - [Fixes](#fixes)
   - [Fun](#fun)
@@ -13,7 +13,14 @@ Minecraft Texture pack made via VanillaTweaks with additional tweaks made by me!
   - [Some Bloody Peace & Quiet](#some-bloody-peace--quiet)
   - [Variation](#variation)
   - [Aesthetic](#aesthetic)
+- [Contact](#contact)
 
+# How to Install
+1. Click [here](https://github.com/ThatPaple/PapsPack/releases/latest) for the latest release
+2. Download the source code zip
+3. Open up the zip and drag the ``PapsPack-x.x.x`` folder into your texture pack folder
+4. Activate the pack in your Texture Pack settings!
+5. Enjoy!
 
 # Current Mods
 ## Fixes 
@@ -85,8 +92,7 @@ Minecraft Texture pack made via VanillaTweaks with additional tweaks made by me!
 * Warm Glow
 * Brown Leather
 
-
-
-
-
-
+# Contact 
+Email : thatpaple@gmail.com   
+Discord : thatpaple#9995   
+Github : ThatPaple   
