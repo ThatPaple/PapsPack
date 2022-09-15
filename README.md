@@ -1,8 +1,21 @@
 # PapsPack
 Minecraft Texture pack made via VanillaTweaks with additional tweaks made by me!
 
-# Current Mods
 
+- [PapsPack](#papspack)
+- [Current Mods](#current-mods)
+  - [Fixes](#fixes)
+  - [Fun](#fun)
+  - [GUI](#gui)
+  - [HUD](#hud)
+  - [Unobtrusive](#unobtrusive)
+  - [Utility](#utility)
+  - [Some Bloody Peace & Quiet](#some-bloody-peace--quiet)
+  - [Variation](#variation)
+  - [Aesthetic](#aesthetic)
+
+
+# Current Mods
 ## Fixes 
 * Consistent Beacon Beam
 * Cloud Fog Fix
