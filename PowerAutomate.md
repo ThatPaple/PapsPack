@@ -1,4 +1,4 @@
-To enable updates through Power Automate, please copy this into your application : 
+To enable updates through Power Automate, please copy the following script into your Power Automate application : 
 
 ```
 Display.SelectFolder Description: $'''Please select your Resource Pack Folder''' IsTopMost: True SelectedFolder=> SelectedFolder ButtonPressed=> ButtonPressed
